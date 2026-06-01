@@ -1,0 +1,20 @@
+python,variable,It stores information that can be used later
+python,string,Text inside quotes
+python,list,A collection of items inside square brackets
+python,function,A block of code that only runs when it is called
+python,loop,It repeats code more than once
+python,random,A module used to choose unpredictable values
+python,input,It lets the user type information
+python,print,It displays information on the screen
+python,integer,A whole number
+python,float,A number with decimals
+python,boolean,A value that can be True or False
+python,condition,It checks if something is True or False
+python,file,A place where data can be stored and read
+python,append,It adds an item to the end of a list
+python,import,It brings another module into your program
+python,return,It sends a value back from a function
+python,parameter,A value given to a function
+python,index,The position of an item in a list or string
+python,method,A function that belongs to an object
+python,syntax,The rules for writing valid code
