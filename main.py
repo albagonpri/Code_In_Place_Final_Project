@@ -61,7 +61,7 @@ def calculate_score(guesses_left, hints_used):
 
 
 def play_game():
-    print("Welcome to Phyton Mystery Word!")
+    print("Welcome to Python Mystery Word!")
     print()
 
     words = load_words("words.txt")
